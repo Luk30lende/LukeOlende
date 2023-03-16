@@ -1,4 +1,3 @@
-<!-- ![Header](./[github-header-image.png]) -->
 
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
 <h3 align="center">A Passionate Frontend, UI/UX Web Developer From Kenya</h3>
