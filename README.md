@@ -1,3 +1,5 @@
+<img src='[images/Github_banner.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)' alt="banner"></img>
+
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
 <h3 align="center">A dummy frontend UI/UX web developer from Kenya</h3>
 
