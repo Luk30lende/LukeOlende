@@ -1,11 +1,10 @@
-<img src='[images/Github_banner.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)' alt="banner"></img>
 
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
-<h3 align="center">A dummy frontend UI/UX web developer from Kenya</h3>
+<h3 align="center">A young passionate frontend, UI/UX web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeolende&label=Profile%20views&color=0e75b6&style=flat" alt="lukeolende" /> </p>
 
-<p align="left"> <a href="https://twitter.com/luke_olende" target="blank"><img src="https://img.shields.io/twitter/follow/luke_olende?logo=twitter&style=for-the-badge" alt="luka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/luke_olende" target="blank"><img src="https://img.shields.io/twitter/follow/luke_olende?logo=twitter&style=for-the-badge" alt="Luke Olende" /></a> </p>
 
 - 🔭 I’m currently working on **Little App Corporate Portal**
 
