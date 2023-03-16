@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
-<h3 align="center">A passionate frontend UI/UX web developer from Kenya</h3>
+<h3 align="center">A dummy frontend UI/UX web developer from Kenya</h3>
+
+<p align="center"><img src="https://media4.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47e637fkm031riyzbs2zaqtnjws2ym5qdleeo3spgx&rid=giphy.gif&ct=g" width="250" height="250"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeolende&label=Profile%20views&color=0e75b6&style=flat" alt="lukeolende" /> </p>
 
