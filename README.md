@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/luke_olende" target="blank"><img src="https://img.shields.io/twitter/follow/luke_olende?logo=twitter&style=for-the-badge" alt="Luke Olende" /></a> </p>
 
-- 🔭 I’m currently working on **Little App Corporate Portal**
+- 🔭 I’m currently working at **Little App as an intern**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, Python**
+- 🌱 I’m currently learning **JavaScript, ReactJs, Python, UI/UX design**
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, UI/UX**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap**
 
 - 📫 How to reach me **olendeluke2k@gmail.com**
 
