@@ -1,7 +1,7 @@
 ![Header](./github-header-image(1).png)
 
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
-<h3 align="center">A Passionate Frontend Web Developer From Kenya</h3>
+<h3 align="center">An Amateur :smirk: Frontend Web Developer From Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeolende&label=Profile%20views&color=0e75b6&style=flat" alt="lukeolende" /> </p>
 
