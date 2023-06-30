@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying Computer Science at **Moi University**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, Python, UI/UX design**
+- 🌱 I’m currently learning **JavaScript, ReactJs, Python, PHP and UI/UX design**
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap**
 
