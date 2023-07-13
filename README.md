@@ -1,4 +1,3 @@
-![Header](./github-header-image(1).png)
 
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
 <h3 align="center">An Ambitious Frontend Web Developer From Kenya</h3>
@@ -9,7 +8,7 @@
 
 - 🔭 I’m currently studying Computer Science at **Moi University**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, Python, PHP and UI/UX design**
+- 🌱 I’m currently learning **JavaScript, ReactJs, Python, PHP, and UI/UX design**
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap**
 
