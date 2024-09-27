@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/luke_olende" target="blank"><img src="https://img.shields.io/twitter/follow/luke_olende?logo=twitter&style=for-the-badge" alt="Luke Olende" /></a> </p>
 
-- 🔭 I’m currently studying Computer Science at **Moi University**
-
-- 🌱 I’m currently learning **JavaScript, ReactJs, Python, PHP, and UI/UX design**
-
-- 💬 Ask me about **HTML5, CSS3, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript, React**
 
 - 📫 How to reach me **olendeluke2k@gmail.com**
 
@@ -25,19 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeolende&show_icons=true&locale=en&layout=compact" alt="lukeolende" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeolende&show_icons=true&locale=en" alt="lukeolende" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukeolende&" alt="lukeolende" /></p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=LukeOlende&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yfyhmzth6mgq57xyawq6zscl4m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)
