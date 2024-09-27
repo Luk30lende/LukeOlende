@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Luke Olende</h1>
-<h3 align="center">An Ambitious Frontend Web Developer From Kenya</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeolende&label=Profile%20views&color=0e75b6&style=flat" alt="lukeolende" /> </p>
 
