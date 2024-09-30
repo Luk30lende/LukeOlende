@@ -2,10 +2,6 @@
 <h1 align="left">Hello 👋, I'm Luke Olende</h1>
 <h3 align="left">A Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeolende&label=Profile%20views&color=0e75b6&style=flat" alt="lukeolende" /> </p>
-
-<p align="left"> <a href="https://twitter.com/luke_olende" target="blank"><img src="https://img.shields.io/twitter/follow/luke_olende?logo=twitter&style=for-the-badge" alt="Luke Olende" /></a> </p>
-
 # 💫 About Me:
 🔭 I am currently working on developing my personal portfolio website to showcase my web design and development projects, while also expanding my skills in frontend technologies and exploring opportunities for collaboration on open-source projects.<br>👯 I’m looking to collaborate on open-source web development projects, innovative software solutions, or any initiatives involving frontend development, API integration, and user experience design.<br>🌱 I’m currently learning I am currently learning advanced JavaScript frameworks like React and Vue.js, as well as deepening my knowledge of API development and cloud services.<br>💬 Ask me about web design, frontend development, API integration, or any tips on building responsive and user-friendly websites.<br>⚡ Fun fact I originally got into coding because I wanted to create my own video game, but along the way, I fell in love with web development and building interactive websites!
 
