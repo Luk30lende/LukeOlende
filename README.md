@@ -7,7 +7,9 @@
 
 # 🌐 Socials:
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="35" alt="codepen logo"  />
+  <a href="https://codepen.io/Luk30lende" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="35" alt="codepen logo"  />
+  </a>
   <a href="olendeluke2k@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
